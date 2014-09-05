@@ -11,4 +11,12 @@
    * [你好世界（Hello World）](get_start/hello_world.md)
    * [应用程序类型（Application Types）](get_start/application_types.md)
    * [总结（ Summary）](get_start/summary.md)
+* [Qt Creator IDE](qt_creator_ide/README.md)
+   * [用户界面（The User Interface）](qt_creator_ide/the_user_interface.md)
+   * [注册你的Qt工具箱（Registering your Qt Kit）](qt_creator_ide/qtregistering_your_qt_kit.md)
+   * [项目管理（Managing Projects）](qt_creator_ide/managing_projects.md)
+   * [使用编辑器（Using the Editor）](qt_creator_ide/using_the_editor.md)
+   * [定位器（Locator）](qt_creator_ide/locator.md)
+   * [调试（Debugging）](qt_creator_ide/debugging.md)
+   * [快捷键（Shortcuts）](qt_creator_ide/shortcuts.md)
 
