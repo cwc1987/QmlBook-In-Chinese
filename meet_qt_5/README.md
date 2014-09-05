@@ -2,7 +2,7 @@
 
 **注意**
 
-**这章的源代码能够在http://qmlbook.org/assets/中找到。**
+**这章的源代码能够在[assetts folder](http://qmlbook.org/assets)找到。**
 
 在这一章是对于Qt5的一个概述，它展示了开发者可以使用的不同开发模型和Qt5程序的预演。另外本章的内容提供一个广泛的Qt5概述和如何与Qt的开发者联系。
 

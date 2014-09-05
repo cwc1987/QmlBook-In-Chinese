@@ -1,6 +1,6 @@
 # Qt5介绍（Qt5 Introduction）
 
-### 1.2.1 Qt Quick
+## 1.2.1 Qt Quick
 
 Qt Quick是Qt5中用户界面技术的涵盖。Qt Quick自身包含了以下几种技术：
 * QML-使用于用户界面的标识语言
@@ -15,7 +15,7 @@ Qt Quick是Qt5中用户界面技术的涵盖。Qt Quick自身包含了以下几�
 
 在典型的项目中前端开发使用QML/JaveScript，后端代码开发使用Qt C++来完成系统接口和繁重的计算工作。这样就很自然的将设计界面的开发者和功能开发者分开了。后端开发测试使用Qt自有的单元测试框架后，导出给前端开发者使用。
 
-### 1.2.2 一个用户界面（Digesting an User Interface）
+## 1.2.2 一个用户界面（Digesting an User Interface）
 
 让我们来使用QtQuick来创建一个简单的用户界面，展示QML语言某些方面的特性。最后我们将获得一个旋转的风车。
 
@@ -63,7 +63,7 @@ Image {
 }
 ```
 
-为了把风车放在中间的位置，我们使用了一个复杂的属性，称之为锚。锚定允许你指定几何对象与父对象或者同级对象之间的位置关系。比如放置我在另一个元素中间（anchors.centerIn:parent).有左边(left)，右边(right)，顶部(top)，底部(bottom)，中央(cengerIn)，填充(fill)，垂直中央(verticalCenter)和水平中央(horizontalCenter)来表示元素之间的关系。确保他们能够匹配，锚定一个对象的左侧顶部的一个元素这样的做法是没有意义的。所以我们设置风车在父对象background的中央。
+为了把风车放在中间的位置，我们使用了一个复杂的属性，称之为锚。锚定允许你指定几何对象与父对象或者同级对象之间的位置关系。比如放置我在另一个元素中间（anchors.centerIn:parent）.有左边（left），右边（right），顶部（top），底部（bottom），中央（cengerIn），填充（fill），垂直中央（verticalCenter）和水平中央（horizontalCenter）来表示元素之间的关系。确保他们能够匹配，锚定一个对象的左侧顶部的一个元素这样的做法是没有意义的。所以我们设置风车在父对象background的中央。
 
 **注意**
 
