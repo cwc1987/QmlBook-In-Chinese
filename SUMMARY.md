@@ -58,4 +58,12 @@
    * [粒子控制（Affecting Particles）](particle_simulations/affecting_particles.md)
    * [粒子组（Particle Group）](particle_simulations/particle_group.md)
    * [总结（Summary）](particle_simulations/summary.md)
+* [Shader Effect](shader_effect/README.md)
+   * [OpenGL着色器（OpenGL Shader）](shader_effect/openglopengl_shader.md)
+   * [着色器元素（Shader Elements）](shader_effect/shader_elements.md)
+   * [片段着色器（Fragement Shader）](shader_effect/fragement_shader.md)
+   * [波浪效果（Wave Effect）](shader_effect/wave_effect.md)
+   * [顶点着色器（Vertex Shader）](shader_effect/vertex_shader.md)
+   * [剧幕效果（Curtain Effect）](shader_effect/curtain_effect.md)
+   * [Qt图像效果库（Qt GraphicsEffect Library）](shader_effect/qtqt_graphicseffect_library.md)
 
