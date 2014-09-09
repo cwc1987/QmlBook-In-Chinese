@@ -49,4 +49,13 @@
    * [像素缓冲（Pixels Buffer）](canvas_element/pixels_buffer.md)
    * [画布绘制（Canvas Paint）](canvas_element/canvas_paint.md)
    * [HTML5画布移植（Porting from HTML5 Canvas）](canvas_element/html5porting_from_html5_canvas.md)
+* [Particle Simulations](particle_simulations/README.md)
+   * [概念（Concept）](particle_simulations/concept.md)
+   * [简单的模拟（Simple Simulation）](particle_simulations/simple_simulation.md)
+   * [粒子参数（Particle Parameters）](particle_simulations/particle_parameters.md)
+   * [粒子方向（Directed Particle）](particle_simulations/directed_particle.md)
+   * [粒子画笔（Particle Painter）](particle_simulations/particle_painter.md)
+   * [粒子控制（Affecting Particles）](particle_simulations/affecting_particles.md)
+   * [粒子组（Particle Group）](particle_simulations/particle_group.md)
+   * [总结（Summary）](particle_simulations/summary.md)
 

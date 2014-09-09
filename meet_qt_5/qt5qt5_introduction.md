@@ -3,6 +3,7 @@
 ## 1.2.1 Qt Quick
 
 Qt Quick是Qt5中用户界面技术的涵盖。Qt Quick自身包含了以下几种技术：
+
 * QML-使用于用户界面的标识语言
 
 * JavaScript-动态脚本语言
