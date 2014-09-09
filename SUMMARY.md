@@ -32,4 +32,11 @@
    * [动画（Animations）](fluid_elements/animations.md)
    * [状态与过渡（States and Transitions）](fluid_elements/states_and_transitions.md)
    * [高级用法（Advanced Techniques）](fluid_elements/advanced_techniques.md)
+* [Model-View-Delegate](model-view-delegate/README.md)
+   * [概念（Concept）](model-view-delegate/concept.md)
+   * [基础模型（Basic Model）](model-view-delegate/basic_model.md)
+   * [动态视图（Dynamic Views）](model-view-delegate/dynamic_views.md)
+   * [代理（Delegate）](model-view-delegate/delegate.md)
+   * [高级用法（Advanced Techniques）](model-view-delegate/advanced_techniques.md)
+   * [总结（Summary）](model-view-delegate/summary.md)
 
