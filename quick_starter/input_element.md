@@ -101,17 +101,17 @@ Rectangle {
 我们使用TLineEditV1组件重写了我们的KeyNavigation（按键向导）的例子。
 
 ```
-Rectangle {
-    ...
-    TLineEditV1 {
-        id: input1
+    Rectangle {
         ...
+        TLineEditV1 {
+            id: input1
+            ...
+        }
+        TLineEditV1 {
+            id: input2
+            ...
+        }
     }
-    TLineEditV1 {
-        id: input2
-        ...
-    }
-}
 ```
 
 ![](http://qmlbook.org/_images/textinput3.png)
@@ -151,17 +151,17 @@ FocusScope {
 现在我们的例子将像下面这样：
 
 ```
-Rectangle {
-    ...
-    TLineEditV2 {
-        id: input1
+    Rectangle {
         ...
+        TLineEditV2 {
+            id: input1
+            ...
+        }
+        TLineEditV2 {
+            id: input2
+            ...
+        }
     }
-    TLineEditV2 {
-        id: input2
-        ...
-    }
-}
 ```
 
 按下Tab按键可以成功的在两个组件之间切换焦点，并且能够正确的将焦点锁定在组件内部的子元素中。

@@ -28,4 +28,8 @@
    * [布局元素（Layout Items）](quick_starter/layout_items.md)
    * [输入元素（Input Element）](quick_starter/input_element.md)
    * [ 高级用法（Advanced Techniques）](quick_starter/advanced_techniques.md)
+* [Fluid Elements](fluid_elements/README.md)
+   * [动画（Animations）](fluid_elements/animations.md)
+   * [状态与过渡（States and Transitions）](fluid_elements/states_and_transitions.md)
+   * [高级用法（Advanced Techniques）](fluid_elements/advanced_techniques.md)
 
