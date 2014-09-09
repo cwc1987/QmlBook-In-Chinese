@@ -66,4 +66,11 @@
    * [顶点着色器（Vertex Shader）](shader_effect/vertex_shader.md)
    * [剧幕效果（Curtain Effect）](shader_effect/curtain_effect.md)
    * [Qt图像效果库（Qt GraphicsEffect Library）](shader_effect/qtqt_graphicseffect_library.md)
+* [Multimedia](multimedia/README.md)
+   * [媒体播放（Playing Media）](multimedia/playing_media.md)
+   * [声音效果（Sounds Effects）](multimedia/sounds_effects.md)
+   * [视频流（Video Streams）](multimedia/video_streams.md)
+   * [捕捉图像（Capturing Images）](multimedia/capturing_images.md)
+   * [高级用法（Advanced Techniques）](multimedia/advanced_techniques.md)
+   * [总结（Summary）](multimedia/summary.md)
 
