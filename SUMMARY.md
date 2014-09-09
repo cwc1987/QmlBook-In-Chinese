@@ -19,4 +19,13 @@
    * [定位器（Locator）](qt_creator_ide/locator.md)
    * [调试（Debugging）](qt_creator_ide/debugging.md)
    * [快捷键（Shortcuts）](qt_creator_ide/shortcuts.md)
+* [Quick Starter](quick_starter/README.md)
+   * [QML语法（QML Syntax）](quick_starter/qmlqml_syntax.md)
+   * [基本元素（Basic Elements）](quick_starter/basic_elements.md)
+   * [组件（Compontents）](quick_starter/compontents.md)
+   * [简单的转换（Simple Transformations）](quick_starter/simple_transformations.md)
+   * [定位元素（Positioning Element）](quick_starter/positioning_element.md)
+   * [布局元素（Layout Items）](quick_starter/layout_items.md)
+   * [输入元素（Input Element）](quick_starter/input_element.md)
+   * [ 高级用法（Advanced Techniques）](quick_starter/advanced_techniques.md)
 
