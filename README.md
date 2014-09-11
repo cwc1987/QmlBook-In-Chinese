@@ -114,3 +114,5 @@ Qt5 Cadaques上发布的课程已全部由我一个人翻译完成，但是没�
 # 问题与建议
 
 帮忙校对可以参考《The Swift Programming Language》 in Chinese的[流程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)，我会及时合并，有任何建议可以在项目issue中提出，或者email我：cwc1987@163.com
+
+# 校对
