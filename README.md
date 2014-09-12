@@ -20,6 +20,12 @@ Qt5 Cadaques上发布的课程已全部由我一个人翻译完成，但是没�
 
 本人渣英语，很多术语可能翻译不准确，如果有什么错误希望广大Qt爱好者谅解。
 
+# 校对贡献
+
+排名不分先后
+
+[**DreamerCorey**](https://github.com/DreamerCorey)
+
 # 课程目录
 
 * Meet Qt 5
