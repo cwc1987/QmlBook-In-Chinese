@@ -191,7 +191,7 @@ ListView.ApplyRange，它尝试保持高亮代理始终可见，但是不会强�
 
 为了更加详细的控制高亮的移动，highlightFollowCurrentItem属性设置为false。这意味着视图将不再负责高亮代理的移动。取而代之可以通过一个行为（Bahavior）或者一个动画来控制它。
 
-在下面的例子中，高亮道理的y坐标属性与ListView.view.currentItem.y属性绑定。这确保了高亮始终跟随当前元素。然而，由于我们没有让视图来移动这个高亮代理，我们需要控制这个元素如何移动，通过Behavior on y来完成这个操作，在下面的例子中，移动分为三步完成：淡出，移动，淡入。注意怎样使用SequentialAnimation和PropertyAnimation元素与NumberAnimation结合创建更加复杂的移动效果。
+在下面的例子中，高亮代理的y坐标属性与ListView.view.currentItem.y属性绑定。这确保了高亮始终跟随当前元素。然而，由于我们没有让视图来移动这个高亮代理，我们需要控制这个元素如何移动，通过Behavior on y来完成这个操作，在下面的例子中，移动分为三步完成：淡出，移动，淡入。注意怎样使用SequentialAnimation和PropertyAnimation元素与NumberAnimation结合创建更加复杂的移动效果。
 
 ```
     Component {
