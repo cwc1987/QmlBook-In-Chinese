@@ -25,6 +25,7 @@ Qt5 Cadaques上发布的课程已全部由我一个人翻译完成，但是没�
 排名不分先后
 
 [**DreamerCorey**](https://github.com/DreamerCorey)
+
 [**Jakes Lee**](https://github.com/jakeslee)
 
 # 课程目录
