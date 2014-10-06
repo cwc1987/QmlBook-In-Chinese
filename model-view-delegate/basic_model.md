@@ -64,7 +64,7 @@ Column {
 
 将数据暴露成一组序列，你可以通过标号迅速的找到你需要的信息。想象一下这个模型的草图，这是一个最简单的模型，也是通常都会使用的模型，ListModel（链表模型）。一个链表模型由许多ListElement（链表元素）组成。在每个链表元素中，可以绑定值到属性上。例如在下面这个例子中，每个元素都提供了一个名字和一个颜色。
 
-每个元素中的属性绑定连接到repeater实例化的子项上。这意味着变量name和surfaceColor可以被repeater创建的每个Rectangle和Text项引用。这不仅可以方便的访问数据，也可以使源代码更加容易阅读。surfaceColor是名字左边园的颜色，而不是模糊的数据序列列i或者行j。
+每个元素中的属性绑定连接到repeater实例化的子项上。这意味着变量name和surfaceColor可以被repeater创建的每个Rectangle和Text项引用。这不仅可以方便的访问数据，也可以使源代码更加容易阅读。surfaceColor是名字左边圆的颜色，而不是模糊的数据序列列i或者行j。
 
 ```
 import QtQuick 2.0

@@ -54,9 +54,9 @@ Image {
 
 * PauseAnimation（停止动画）- 运行暂停一个动画
 
-* SequentialAnimation（继续动画）- 允许动画继续播放
+* SequentialAnimation（顺序动画）- 允许动画有序播放
 
-* ParallelAnimation（平行动画）- 允许动画平行播放
+* ParallelAnimation（并行动画）- 允许动画同时播放
 
 * AnchorAnimation（锚定动画）- 使用锚定改变播放的动画
 
