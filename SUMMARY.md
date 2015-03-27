@@ -83,6 +83,8 @@
    * [云服务（Engine IO）](networking/engine_io.md)
    * [Web Sockets](networking/web_sockets.md)
    * [总结（Summary）](networking/summary.md)
+* [存储（Storage）](storage/README.md)
+   * [配置（Settings）](storage/settings.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
