@@ -10,13 +10,13 @@
 
 **创建自己的工作分支**
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/1.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/1.PNG?raw=true)
 
 登录你的github账号后，进入[我们项目的页面](https://github.com/cwc1987/Qt5-Cadaques-In-Chinese)，点击上图右上角的fork，创建自己的工作分支。
 
 下图是我测试号的工作分支。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/2.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/2.PNG?raw=true)
 
 **下载TortoiseGit，克隆你的工作分支到本地**
 
@@ -24,13 +24,13 @@
 
 下图是使用TortoiseGit工具克隆工作分支的界面截图。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/3.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/3.PNG?raw=true)
 
 **使用gitbook客户端打开项目文件夹，开始校对**
 
 使用gitbook客户端打开项目文件夹，就能开始编译校对，下图是打开项目文件夹的截图。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/4.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/4.PNG?raw=true)
 
 **校对完成后上传到你在github上的工作分支**
 
@@ -38,38 +38,38 @@
 
 下图是上传信息的名字与联系方式的补充。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/5.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/5.PNG?raw=true)
 
 下图是上传到本地库的界面截图。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/6.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/6.PNG?raw=true)
 
 上传本地库完成后，点击pull上传到你在github上的工作分支。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/7.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/7.PNG?raw=true)
 
 确定上传工作分支地址，就是你在github上的工作分支地址。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/8.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/8.PNG?raw=true)
 
 **提交pull rqeuset到我的项目**
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/9.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/9.PNG?raw=true)
 
 再次进入你的github工作分支页，点击右边的pull request进入。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/10.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/10.PNG?raw=true)
 
 点击上图的New pull request绿色按键，进入修改提交。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/11.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/11.PNG?raw=true)
 
 网站会自动检测你的工作分支与我们项目的差别，确认提交内容，点击Create pull rqeust绿色按键添加修改内容描述。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/12.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/12.PNG?raw=true)
 
 完成描述后点击上图的Create pull request绿色按键确认提交。
 
 下图为我的项目收到新的pull request的请求，我会确认提交内容后合并。
 
-![](https://raw.githubusercontent.com/cwc1987/Qt5-Cadaques-In-Chinese/master/process_images/13.PNG)
+![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/13.PNG?raw=true)
