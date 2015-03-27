@@ -1,4 +1,4 @@
-# Meet Qt 5
+# 初始Qt5（Meet Qt5）
 
 **注意**
 

@@ -1,4 +1,4 @@
-# Networking
+# 网络（Networking）
 
 Qt5在C++中有丰富的网络相关的类。例如在http协议层上使用请求回答方式的高级封装类如QNetworkRequest，QNetworkReply，QNetworkAccessManageer。也有在TCP/IP或者UDP协议层封装的低级类如QTcpSocket，QTcpServer和QUdpSocket。还有一些额外的类用来管理代理，网络缓冲和系统网络配置。
 

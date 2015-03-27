@@ -1,5 +1,4 @@
-# Quick Starter
-Quick Starter
+# QML快速入门（Quick Starter）
 
 **注意**
 

@@ -1,4 +1,4 @@
-# Model-View-Delegate
+# 模型-视图-代理（Model-View-Delegate）
 
 **注意**
 
