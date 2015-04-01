@@ -85,6 +85,7 @@
    * [总结（Summary）](networking/summary.md)
 * [存储（Storage）](storage/README.md)
    * [配置（Settings）](storage/settings.md)
+   * [本地存储 - SQL（Local Storage - SQL）](storage/local_storage_-_sql.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
