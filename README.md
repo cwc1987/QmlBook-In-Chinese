@@ -31,7 +31,7 @@ QML的中文资料一直比较少，希望大家能喜欢。
 
 # 课程目录
 
-* 初始Qt5（Meet Qt5）
+* 初识Qt5（Meet Qt5）
  * 序（Preface)
  * Qt5介绍（Qt5 Introduction）
  * Qt构建模块（Qt Building Blocks）

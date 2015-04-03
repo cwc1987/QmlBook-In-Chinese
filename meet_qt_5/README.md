@@ -1,4 +1,4 @@
-# 初始Qt5（Meet Qt5）
+# 初识Qt5（Meet Qt5）
 
 **注意**
 

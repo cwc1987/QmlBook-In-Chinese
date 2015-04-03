@@ -87,6 +87,8 @@
    * [配置（Settings）](storage/settings.md)
    * [本地存储 - SQL（Local Storage - SQL）](storage/local_storage_-_sql.md)
    * [其它存储接口（Other Storage APIs）](storage/other_storage_apis.md)
+* [动态QML（Dynamic QML）](dynamic_qml/README.md)
+   * [动态加载组件（Loading Components Dynamically）](dynamic_qml/loading_components_dynamically.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
