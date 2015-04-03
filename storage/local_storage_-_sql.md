@@ -162,11 +162,4 @@ function storeData() {
 
 替代选择所有记录的设置，我们也可以使用SQLITE计数函数：SELECT COUNT(*) from data where name = "crazy"，将返回使用行选择查询的结果。否则这将是一个通用的SQL代码。所谓额外的特性，我们在查询中使用？绑定SQL值。
 
-
-Instead of selecting the whole record set we could also use the SQLITE count function like this: SELECT COUNT(*) from data where name = "crazy" which would return use one row with the amount of rows affected by the select query. Otherwise this is common SQL code. As an additional feature, we use the SQL value binding using the ? in the query.
-
-Now you can drag the rectangle and when you quit the application the database stores the x/y position and applies it on the next application run.
-
-
-
-
+现在你可与拖动这个矩形框当你退出应用程序时会将x/y坐标值存储到数据库，下次启动应用程序时矩形框将使用存储的x/y坐标值定位。

@@ -1,6 +1,6 @@
 # 《QmlBook》in Chinese
 
-中文版《QmlBook》，原作地址[QML Book](http://qmlbook.github.io/index.html)。
+中文版《QmlBook》，原作地址[QmlBook](http://qmlbook.github.io/index.html)。
 
 QML的中文资料一直比较少，希望大家能喜欢。
 
@@ -14,7 +14,7 @@ QML的中文资料一直比较少，希望大家能喜欢。
 
 # 当前阶段
 
-[QML Book](http://qmlbook.github.io/index.html)上发布的课程已完成了1-12章节，剩下的章节正在翻译中，敬请期待。
+[QmlBook](http://qmlbook.github.io/index.html)上发布的课程已完成了1-12章节，剩下的章节正在翻译中，敬请期待。
 
 本人渣英语，很多术语可能翻译不准确，如果有什么错误希望广大Qt爱好者谅解。
 
@@ -102,7 +102,7 @@ QML的中文资料一直比较少，希望大家能喜欢。
  * 捕捉图像（Capturing Images）
  * 高级用法（Advanced Techniques）
  * 总结（Summary）
-* 网络（etworking）
+* 网络（Networking）
  * 通过HTTP服务UI（Serving UI via HTTP）
  * 模板（Templating）
  * HTTP请求（HTTP Requests）
@@ -111,6 +111,10 @@ QML的中文资料一直比较少，希望大家能喜欢。
  * 云服务（Engine IO）
  * Web Sockets
  * 总结（Summary）
+* 存储（Stgorage）
+ * 配置（Settings）
+ * 本地存储-SQL（Local Storage - SQL）
+ * 其它存储接口（Other Storage APIs）
 * 其它（Other）
  * 协作校正
 
