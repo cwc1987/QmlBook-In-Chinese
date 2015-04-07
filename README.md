@@ -1,4 +1,4 @@
-# 《QmlBook》in Chinese
+# 《QmlBook》In Chinese
 
 中文版《QmlBook》，原作地址[QmlBook](http://qmlbook.github.io/index.html)。
 
