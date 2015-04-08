@@ -115,6 +115,11 @@ QML的中文资料一直比较少，希望大家能喜欢。
  * 配置（Settings）
  * 本地存储-SQL（Local Storage - SQL）
  * 其它存储接口（Other Storage APIs）
+* 动态QML（Dynamic QML）
+ * 动态加载组件（Loading Components Dynamically）
+ * 创建与销毁对象（Creating and Destorying Objects）
+ * 跟踪动态对象（Tracking Dynamic Objects）
+ * 总结（Summary）
 * 其它（Other）
  * 协作校正
 
