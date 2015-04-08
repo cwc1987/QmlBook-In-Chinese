@@ -120,7 +120,7 @@ QML的中文资料一直比较少，希望大家能喜欢。
 
 # 原作者
 
-感谢原作者Juergen Bocklage-Ryannel和Johan Thelin的分享，原作地址:http://qmlbook.github.io。
+感谢原作者Juergen Bocklage-Ryannel和Johan Thelin的分享。
 
 # 开源协议
 
