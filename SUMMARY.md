@@ -97,6 +97,11 @@
        * [管理动态创建的元素（Managing Dynamically Created Elements）](dynamic_qml/managing_dynamically_created_elements.md)
    * [跟踪动态对象（Tracking Dynamic Objects）](dynamic_qml/tracking_dynamic_objects.md)
    * [总结（Summary）](dynamic_qml/summary.md)
+* [JavaScript](javascript/README.md)
+   * [Browser/HTML vs QtQuick/QML](javascript/browserhtml_vs_qtquickqml.md)
+   * [JavaScript语法（The Language）](javascript/the_language.md)
+   * [JS对象（JS Objects）](javascript/js_objects.md)
+   * [创建JS控制台（Creating a JS Console）](javascript/creating_a_js_console.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
