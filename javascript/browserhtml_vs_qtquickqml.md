@@ -1,4 +1,4 @@
-# Browser/HTML vs QtQuick/QML
+# 浏览器/HTML与QtQuick/QML对比（Browser/HTML vs QtQuick/QML）
 
 浏览器在运行时渲染HTML，执行HTML中相关的JavaScript。现今的web应用中相对于HTML包含了更多的JavaScript。浏览器中JavaScript运行在一些浏览器附加的标准ECMAScript环境。一个典型的浏览器中的JS环境知道访问浏览器窗口的窗口对象。也简单的基于JQuery的DOM选择器来提供CSS选择器。额外使用setTimeout函数在超时时调用函数。除了这些，JS存在于一个标准的JavaScript环境，类似于QML/JS。
 

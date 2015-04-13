@@ -14,7 +14,7 @@ QML的中文资料一直比较少，希望大家能喜欢。
 
 # 当前阶段
 
-[QmlBook](http://qmlbook.github.io/index.html)上发布的课程已完成了1-12章节，剩下的章节正在翻译中，敬请期待。
+[QmlBook](http://qmlbook.github.io/index.html)上发布的课程已完成了1-14章节，剩下的章节正在翻译中，敬请期待。
 
 本人渣英语，很多术语可能翻译不准确，如果有什么错误希望广大Qt爱好者谅解。
 
@@ -120,6 +120,11 @@ QML的中文资料一直比较少，希望大家能喜欢。
  * 创建与销毁对象（Creating and Destorying Objects）
  * 跟踪动态对象（Tracking Dynamic Objects）
  * 总结（Summary）
+* JavaScript
+ * 浏览器/HTML与QtQuick/QML对比（Browser/HTML vs QtQuick/QML）
+ * JavaScript语法（The Language）
+ * JS对象（JS Objects）
+ * 创建JS控制台（Creating a JS Console）
 * 其它（Other）
  * 协作校正
 

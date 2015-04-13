@@ -98,7 +98,7 @@
    * [跟踪动态对象（Tracking Dynamic Objects）](dynamic_qml/tracking_dynamic_objects.md)
    * [总结（Summary）](dynamic_qml/summary.md)
 * [JavaScript](javascript/README.md)
-   * [Browser/HTML vs QtQuick/QML](javascript/browserhtml_vs_qtquickqml.md)
+   * [浏览器/HTML与QtQuick/QML对比（Browser/HTML vs QtQuick/QML）](javascript/browserhtml_vs_qtquickqml.md)
    * [JavaScript语法（The Language）](javascript/the_language.md)
    * [JS对象（JS Objects）](javascript/js_objects.md)
    * [创建JS控制台（Creating a JS Console）](javascript/creating_a_js_console.md)
