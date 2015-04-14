@@ -102,6 +102,9 @@
    * [JavaScript语法（The Language）](javascript/the_language.md)
    * [JS对象（JS Objects）](javascript/js_objects.md)
    * [创建JS控制台（Creating a JS Console）](javascript/creating_a_js_console.md)
+* [Qt and C++](qt_and_c++/README.md)
+   * [演示程序（A Boilerplate Application）](qt_and_c++/a_boilerplate_application.md)
+   * [Qt对象（The QObject）](qt_and_c++/the_qobject.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
