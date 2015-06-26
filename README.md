@@ -10,7 +10,7 @@ QML的中文资料一直比较少，希望大家能喜欢。
 
 # PDF下载
 
-[点我下载](https://www.gitbook.io/download/pdf/book/cwc1987/qt5cadaquesinchinese?lang=)
+[点我下载](https://www.gitbook.com/download/pdf/book/cwc1987/qmlbook-in-chinese)
 
 # 当前阶段
 
