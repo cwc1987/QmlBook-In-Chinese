@@ -6,7 +6,7 @@ QML的中文资料一直比较少，希望大家能喜欢。
 
 # 在线阅读
 
-使用Gitbook制作，可以直接[在线阅读](https://www.gitbook.io/read/book/cwc1987/qt5cadaquesinchinese)。
+使用Gitbook制作，可以直接[在线阅读](http://cwc1987.gitbooks.io/qmlbook-in-chinese/content/)。
 
 # PDF下载
 
