@@ -1,1 +1,1 @@
-# QMake
+# QMak
