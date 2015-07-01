@@ -107,6 +107,7 @@
    * [Qt对象（The QObject）](qt_and_c++/the_qobject.md)
    * [编译系统（Build Systems）](qt_and_c++/build_systems.md)
        * [QMake](qt_and_c++/qmake.md)
+       * [CMake](qt_and_c++/cmake.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
