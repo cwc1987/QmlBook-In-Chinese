@@ -108,6 +108,7 @@
    * [编译系统（Build Systems）](qt_and_c++/build_systems.md)
        * [QMake](qt_and_c++/qmake.md)
        * [CMake](qt_and_c++/cmake.md)
+   * [Qt通用类（Common Qt Classes）](qt_and_c++/common_qt_classes.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
