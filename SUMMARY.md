@@ -109,6 +109,8 @@
        * [QMake](qt_and_c++/qmake.md)
        * [CMake](qt_and_c++/cmake.md)
    * [Qt通用类（Common Qt Classes）](qt_and_c++/common_qt_classes.md)
+       * [QString](qt_and_c++/qstring.md)
+       * [顺序容器（Sequential Containers）](qt_and_c++/sequential_containers.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
