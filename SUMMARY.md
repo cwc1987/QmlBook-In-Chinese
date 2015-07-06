@@ -111,6 +111,10 @@
    * [Qt通用类（Common Qt Classes）](qt_and_c++/common_qt_classes.md)
        * [QString](qt_and_c++/qstring.md)
        * [顺序容器（Sequential Containers）](qt_and_c++/sequential_containers.md)
+       * [组合容器（Associative Containers）](qt_and_c++/associative_containers.md)
+       * [文件IO（File IO）](qt_and_c++/file_io.md)
+   * [C++数据模型（Models in C++）](qt_and_c++/models_in_c++.md)
+       * [一个简单的模型（A simple model）](qt_and_c++/a_simple_model.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
