@@ -115,6 +115,7 @@
        * [文件IO（File IO）](qt_and_c++/file_io.md)
    * [C++数据模型（Models in C++）](qt_and_c++/models_in_c++.md)
        * [一个简单的模型（A simple model）](qt_and_c++/a_simple_model.md)
+       * [更复杂的数据（More Complex Data）](qt_and_c++/more_complex_data.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
