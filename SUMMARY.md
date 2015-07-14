@@ -116,6 +116,10 @@
    * [C++数据模型（Models in C++）](qt_and_c++/models_in_c++.md)
        * [一个简单的模型（A simple model）](qt_and_c++/a_simple_model.md)
        * [更复杂的数据（More Complex Data）](qt_and_c++/more_complex_data.md)
+       * [动态数据（Dynamic Data）](qt_and_c++/dynamic_data.md)
+       * [进阶技巧（Advanced Techniques）](qt_and_c++/advanced_techniques.md)
+* [C++扩展QML（Extending QML with C++）](extending_qml_with_c++/README.md)
+   * [理解QML运行环境（Understanding the QML Run-time）](extending_qml_with_c++/understanding_the_qml_run-time.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
