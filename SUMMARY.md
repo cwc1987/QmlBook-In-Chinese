@@ -122,6 +122,10 @@
    * [理解QML运行环境（Understanding the QML Run-time）](extending_qml_with_c++/understanding_the_qml_run-time.md)
    * [插件内容（Plugin Content）](extending_qml_with_c++/plugin_content.md)
    * [创建插件（Creating the plugin）](extending_qml_with_c++/creating_the_plugin.md)
+   * [FileIO实现（FileIO Implementation）](extending_qml_with_c++/fileio_implementation.md)
+   * [使用FileIO（Using FileIO）](extending_qml_with_c++/using_fileio.md)
+       * [应用程序窗口（The Application Window）](extending_qml_with_c++/the_application_window.md)
+       * [使用动作（Using Actions）](extending_qml_with_c++/using_actions.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
