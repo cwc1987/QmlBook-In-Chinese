@@ -126,6 +126,8 @@
    * [使用FileIO（Using FileIO）](extending_qml_with_c++/using_fileio.md)
        * [应用程序窗口（The Application Window）](extending_qml_with_c++/the_application_window.md)
        * [使用动作（Using Actions）](extending_qml_with_c++/using_actions.md)
+       * [格式化表格（Formatting the Table）](extending_qml_with_c++/formatting_the_table.md)
+       * [读取数据（Reading Data）](extending_qml_with_c++/reading_data.md)
 * [其它（Other）](other/README.md)
    * [协作校正](other/collaboration_correction.md)
 
