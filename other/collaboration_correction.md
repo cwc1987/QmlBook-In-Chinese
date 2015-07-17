@@ -64,7 +64,7 @@
 
 ![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/11.PNG?raw=true)
 
-网站会自动检测你的工作分支与我们项目的差别，确认提交内容，点击Create pull rqeust绿色按键添加修改内容描述。
+系统会检测你的工作分支与我们项目的差别，确认提交内容，点击Create pull rqeust绿色按键添加修改内容描述。
 
 ![](https://github.com/cwc1987/QmlBook-In-Chinese/blob/master/other/process_images/12.PNG?raw=true)
 

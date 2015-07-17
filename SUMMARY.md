@@ -129,6 +129,11 @@
        * [格式化表格（Formatting the Table）](extending_qml_with_c++/formatting_the_table.md)
        * [读取数据（Reading Data）](extending_qml_with_c++/reading_data.md)
        * [写入数据（Writing Data）](extending_qml_with_c++/writing_data.md)
+       * [收尾工作（Finishing Touch）](extending_qml_with_c++/finishing_touch.md)
+   * [总结（Summary）](extending_qml_with_c++/summary.md)
 * [其它（Other）](other/README.md)
+   * [示例源码](other/assets.md)
+   * [术语英汉对照表](other/enginsh_to_chinses.md)
+   * [格式定义](other/book_format.md)
    * [协作校正](other/collaboration_correction.md)
 
