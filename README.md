@@ -14,9 +14,9 @@ QML的中文资料一直比较少，希望大家能喜欢。
 
 # 当前阶段
 
-[QmlBook](http://qmlbook.github.io/index.html)上发布的课程已完成了1-14章节，剩下的章节正在翻译中，敬请期待。
+[QmlBook](http://qmlbook.github.io/index.html)上发布的课程已完成所有章节的翻译，进入第一次校正阶段，还有很多不通顺或者翻译很生硬的地方。
 
-本人渣英语，很多术语可能翻译不准确，如果有什么错误希望广大Qt爱好者谅解。
+很多术语可能不准确，如果有什么错误希望广大Qt爱好者谅解，并及时指出。
 
 # 校对贡献
 
@@ -125,7 +125,23 @@ QML的中文资料一直比较少，希望大家能喜欢。
  * JavaScript语法（The Language）
  * JS对象（JS Objects）
  * 创建JS控制台（Creating a JS Console）
+* Qt and C++
+ * 演示程序（A Boilerplate Application）
+ * Qt对象（The QObject）
+ * 编译系统（Build Systems）
+ * Qt通用类（Common Qt Classes）
+ * C++数据模型（Models in C++）
+* C++扩展QML（Extending QML with C++）
+ * 理解QML运行环境（Understanding the QML Run-time）
+ * 插件内容（Plugin Content）
+ * 创建插件（Creating the plugin）
+ * FileIO实现（FileIO Implementation）
+ * 使用FileIO（Using FileIO）
+ * 总结（Summary）
 * 其它（Other）
+ * 示例源码
+ * 术语英汉对照表
+ * 格式定义
  * 协作校正
 
 # 原作者
