@@ -20,10 +20,10 @@ QML是与HTML类似的一种标记语言。在QtQuick中将由标签组成的组
 
 我们将使用QtQuick创建一个简单的界面，这个例子展示了QML语言的一些特性，在例子完成后我们将获得一个可以旋转的风车。![](http://qmlbook.github.io/_images/scene.png)
 
-我们开始创建一个空的main.qml文档。所有的QML文件都已.qml作为后缀。作为一个标识语言（类似HTML）一个QML文档需要并且只有一个根元素，在我们的案例中是一个基于background的图像高度与宽度的几何图形元素：
+我们开始创建一个空的`main.qml`文档。QML文件采用`.qml`作为文件格式后缀。作为一种标记语言（类似HTML）一个QML文档有且只有一个根组件，在这个例子中使用`Image`组件作为根组件，这个组件的宽度和高度与`"images/background.png"`图像相同。
 
-```
-import QtQuick 2.0
+```QML
+import QtQuick 2.5
 
 Image {
     id: root
