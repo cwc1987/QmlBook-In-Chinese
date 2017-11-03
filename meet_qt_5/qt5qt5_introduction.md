@@ -8,7 +8,7 @@ Qt Quick是Qt5的用户界面开发技术的统称，是以下几种技术的集
 
 * JavaScript - 动态脚本语言
 
-* Qt C++ - 具有高度可移植性的C++库.
+* Qt C++ - 跨平台C++封装库
 
 ![](http://qmlbook.org/_images/qt5_overview.png)
 
