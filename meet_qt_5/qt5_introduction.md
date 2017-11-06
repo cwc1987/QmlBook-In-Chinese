@@ -41,28 +41,35 @@ QML中不限制根元素类型，在上面这段代码中我们设置了`Image`�
 
 **大多数标准元素都在**`QtQuick`**模块中，通常我们在导入声明中首先包含这个模块。**
 
-`id`**是个特殊的属性，它可以作为一个标识符在当前文档内引用对应的组件。**
+`id`**是个特殊的属性，它可以作为一个标识符在当前文档内引用对应的元素。注意：`id`被定义后无法再改变，在程序执行期间也无法被赋值。使用`root`作为根元素id仅仅是作者的习惯，这样可以在复杂的QML文档中快速引用最顶层元素。**
 
-**重要提示：一个id属性无法在它被设置后改变，并且在程序执行期间无法被设置。使用root作为根元素id仅仅是作者的习惯，可以在比较大的QML文档中方便的引用最顶层元素。**
+我们使用分离的风车竿和风车的图片作为前景元素。
 
-风车作为前景元素使用图像的方式放置在我们的用户界面上。
+![](http://qmlbook.github.io/_images/pole.png)
 
 ![](http://qmlbook.org/_images/pinwheel.png)
 
-正常情况下你的用户界面应该有不同类型的元素构成，而不是像我们的例子一样只有图像元素。
+风车竿需要放置在背景的水平居中位置，并且竿的底部与背景底部平行。风车需要放置在背景中央位置。
 
-```
-Image {
-    id: root
-    ...
+通常用户界面由不同的类型的元素组成，而不是像这个示例只有图像。
+
     Image {
-        id: wheel
-        anchors.centerIn: parent
-        source: "images/pinwheel.png"
+    	id: root
+    	...
+    	Image {
+    		id: pole
+    		anchors.horizontalCenter: parent.horizontalCenter
+    		anchors.bottom: parent.bottom
+    		source: "images/pole.png"
+    	}
+    
+    	Image {
+    		id: wheel
+    		anchors.centerIn: parent
+    		source: "images/pinwheel.png"
+    	}
+    	...
     }
-    ...
-}
-```
 
 为了把风车放在中间的位置，我们使用了一个复杂的属性，称之为锚。锚定允许你指定几何对象与父对象或者同级对象之间的位置关系。比如放置我在另一个元素中间（anchors.centerIn:parent）.有左边（left），右边（right），顶部（top），底部（bottom），中央（centerIn），填充（fill），垂直中央（verticalCenter）和水平中央（horizontalCenter）来表示元素之间的关系。确保他们能够匹配，锚定一个对象的左侧顶部的一个元素这样的做法是没有意义的。所以我们设置风车在父对象background的中央。
 
