@@ -104,7 +104,7 @@ QML的中文资料一直比较少，希望大家能喜欢。
     * 高级用法（Advanced Techniques）
     * 总结（Summary）
 11. 网络（Networking）
-    * 通过HTTP服务UI（Serving UI via HTTP）
+    * 通过HTTP服务用户界面（Serving UI via HTTP）
     * 模板（Templating）
     * HTTP请求（HTTP Requests）
     * 本地文件（Local files）
