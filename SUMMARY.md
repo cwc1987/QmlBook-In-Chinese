@@ -74,7 +74,7 @@
   * [高级用法（Advanced Techniques）](multimedia/advanced_techniques.md)
   * [总结（Summary）](multimedia/summary.md)
 * [网络（Networking）](networking/README.md)
-  * [通过HTTP服务UI（Serving UI via HTTP）](networking/httpuiserving_ui_via_http.md)
+  * [通过HTTP服务用户界面（Serving UI via HTTP）](networking/httpuiserving_ui_via_http.md)
   * [模板（Templating）](networking/templating.md)
   * [HTTP请求（HTTP Requests）](networking/httphttp_requests.md)
   * [本地文件（Local files）](networking/local_files.md)
